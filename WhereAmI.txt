@@ -1,0 +1,10 @@
+//NOTES
+ 
+Have added navigation orders-headers-legs and fill records
+Have added some static data tables
+Have got a seed method running stuff.  If I want to run seed without any db changes, I can use update-database from the console
+
+OrderStackerEngine have to get this in bootstrapper mef, and resolve some problem because it's in Business_engines folder 
+//VIDEO 
+Services and Business Engines Part 1 - Setting Up The Bsuiness Engine for DI
+I've added the OrderStackerEngine to the bootstrapper'
